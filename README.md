@@ -1,4 +1,4 @@
-# autoletsencrypt.sh – DirectAdmin için Toplu SSL Kurulumu (Let's Encrypt)
+# DirectAdmin için Toplu SSL Kurulumu (Let's Encrypt)
 
 Bu betik, DirectAdmin kontrol panelinde barındırılan tüm domainler için otomatik olarak Let's Encrypt SSL sertifikası alır.
 Yeni domainler eklendiğinde veya daha önce sertifika almamış siteler varsa, betik bunları otomatik olarak tespit eder ve işlem yapar.
