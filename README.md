@@ -15,7 +15,7 @@ chmod 755 autoletsencrypt.sh
 ./autoletsencrypt.sh
 ```
 
-> Yukarıdaki link, scriptin doğrudan indirilebileceği GitHub RAW linkidir.
+> İşlem öncesinde sunucunuzun tam yedeğini veya bir snapshot yedeği almanız önemle tavsiye edilir.
 
 ---
 
